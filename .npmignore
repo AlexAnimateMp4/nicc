@@ -1,0 +1,7 @@
+.gitignore
+addon.cc
+binding.max.gyp
+CHANGELOG.md
+index.js
+package.max.json
+README.md
