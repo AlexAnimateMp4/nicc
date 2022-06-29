@@ -2,8 +2,8 @@
 <div id="readme-head" align="center">
     <h1 id="readme-title">NICC</h1>
     <h4 id="readme-description">Native internet connection check.</h4>
-    <a id="readme-shield-npm" href="https://www.npmjs.com/package/NICC">
-        <img id="readme-shield-npm-img" src="https://img.shields.io/npm/v/NICC" alt="NPM Package" />
+    <a id="readme-shield-npm" href="https://www.npmjs.com/package/nicc">
+        <img id="readme-shield-npm-img" src="https://img.shields.io/npm/v/nicc" alt="NPM Package" />
     </a>
     <a id="readme-shield-last-commit" href="https://github.com/AlexAnimateMp4/NICC/commits/main">
         <img id="readme-shield-last-commit-img"
@@ -15,17 +15,17 @@
     </a>
     <a id="readme-shield-npm-download-week">
         <img id="readme-shield-npm-download-week-img"
-            src="https://img.shields.io/npm/dw/NICC?label=npm%20downloads"
+            src="https://img.shields.io/npm/dw/nicc?label=npm%20downloads"
             alt="NPM Package download by week" />
     </a>
     <a id="readme-shield-npm-download-month">
         <img id="readme-shield-npm-download-month-img"
-            src="https://img.shields.io/npm/dm/NICC?label=npm%20downloads"
+            src="https://img.shields.io/npm/dm/nicc?label=npm%20downloads"
             alt="NPM Package download by month" />
     </a>
     <a id="readme-shield-npm-download-total">
         <img id="readme-shield-npm-download-total-img"
-            src="https://img.shields.io/npm/dt/NICC?label=npm%20downloads"
+            src="https://img.shields.io/npm/dt/nicc?label=npm%20downloads"
             alt="NPM Package download total" />
     </a>
     <a id="readme-shield-downloads">
@@ -38,7 +38,7 @@
             alt="Downloads@latest" />
     </a>
     <a id="readme-shield-npm-collaborators">
-        <img id="readme-shield-npm-collaborators-img" src="https://img.shields.io/npm/collaborators/NICC"
+        <img id="readme-shield-npm-collaborators-img" src="https://img.shields.io/npm/collaborators/nicc"
             alt="NPM Package collaborators" />
     </a>
     <a id="readme-shield-contributors" href="https://github.com/AlexAnimateMp4/NICC/graphs/contributors">
