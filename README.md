@@ -134,7 +134,7 @@
     <div id="readme-installation">
         <h2 id="readme-installation-title">Installation</h2>
         <h3 id="readme-installation-require-node-gyp">⚠️ <a id="readme-installation-require-node-gyp-link"
-        href="https://github.com/nodejs/node-gyp#installation">Installing node-gyp is required!</a> ⚠️</h3>
+        href="https://github.com/nodejs/node-gyp#installation" target="_blank">Installing node-gyp is required!</a> ⚠️</h3>
         <pre><code id="readme-installation-npm-code" class="language-shell">$ npm i nicc</code></pre>
         <pre><code id="readme-installation-nodejs-code" class="language-js">const NICC = require(`nicc`);</code></pre>
     </div>
@@ -155,7 +155,7 @@
 <a name="footer"></a>
 <p id="readme-footer" align="center">CL 2022 <a id="readme-footer-repo"
         href="https://github.com/AlexAnimateMp4/NICC">NICC</a><br>&lt;/&gt; with ❤ by <a
-        id="readme-footer-author" href="https://github.com/AlexAnimateMp4" tarDEL="_blank">Alex Animate Mp4</a> and <a
+        id="readme-footer-author" href="https://github.com/AlexAnimateMp4" target="_blank">Alex Animate Mp4</a> and <a
         id="readme-footer-contributors"
         href="https://github.com/AlexAnimateMp4/NICC/graphs/contributors">contributors</a>.</p>
 <a name="bottom"></a>

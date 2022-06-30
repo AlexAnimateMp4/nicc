@@ -1,54 +1,28 @@
-<div id="latest">
-    <h1 id="latest-title">0.1.0</h1>
-    <blockquote id="latest-note">
-        <p>Initial commit</p>
-    </blockquote>
-    <h3 id="latest-added">Added:</h3>
-    <div id="latest-added-body">
+<div id="changelog">
+    <h1 id="changelog-title">0.1.1</h1>
+    <h3 id="changelog-added">Added:</h3>
+    <div id="changelog-added-body">
         <ul>
-            <li>Adding multiple files:
-                <ul>
-                    <li>
-                        <a href="./.gitignore">.gitignore</a>
-                    </li>
-                    <li>
-                        <a href="./.npmignore">.npmignore</a>
-                    </li>
-                    <li>
-                        <a href="./addon.cc">addon.cc</a>
-                    </li>
-                    <li>
-                        <a href="./addon.min.cc">addon.min.cc</a>
-                    </li>
-                    <li>
-                        <a href="./binding.gyp">binding.gyp</a>
-                    </li>
-                    <li>
-                        <a href="./binding.max.gyp">binding.max.gyp</a>
-                    </li>
-                    <li>
-                        <a href="./CHANGELOG.md">CHANGELOG.md</a>
-                    </li>
-                    <li>
-                        <a href="./index.js">index.js</a>
-                    </li>
-                    <li>
-                        <a href="./index.min.js">index.min.js</a>
-                    </li>
-                    <li>
-                        <a href="./LICENSE.md">LICENSE.md</a>
-                    </li>
-                    <li>
-                        <a href="./package.json">package.json</a>
-                    </li>
-                    <li>
-                        <a href="./package.max.json">package.max.json</a>
-                    </li>
-                    <li>
-                        <a href="./README.md">README.md</a>
-                    </li>
-                </ul>
-            </li>
+            <h3>.gitignore</h3>
+            <li>Added <code>build</code> folder.</li>
         </ul>
     </div>
+    <h3 id="changelog-fixed">Fixed:</h3>
+    <div id="changelog-fixed-body">
+        <ul>
+            <h3>README.md</h3>
+            <li><code>0.1.0</code> - Changed NPM <code>NICC</code> package name to <code>nicc</code>.</li>
+            <h3>binding.gyp & binding.max.gyp</h3>
+            <li>Added local referencing for <code>targets[0]sources[0]</code> property.</li>
+        </ul>
+    </div>
+    <h3 id="changelog-changed">Changed:</h3>
+    <div id="changelog-changed-body">
+        <ul>
+            <h3>CHANGELOG.md</h3>
+            <li>New Architecture.</li>
+        </ul>
+    </div>
+    <h1 id="changelog-old">To view older changelogs, please refer to <a
+        id="changelog-old-link" href="https://github.com/AlexAnimateMp4/nicc/releases">Github releases</a>.</h1>
 </div>
